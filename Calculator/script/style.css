@@ -1,0 +1,15 @@
+section{
+  height: 100px;
+  width: 100px;
+  background: burgundy;
+  color: white;
+  float: left;
+  align-content: center;
+}
+body{
+  width: 100%;
+  height: auto;
+  color: yellow;
+  background-color: black;
+  background-image: url("https://media1.giphy.com/media/l0O9y4aVFMpvhnZCw/giphy.gif?cid=3640f6095bb695ab614737547308c0c0");
+}
