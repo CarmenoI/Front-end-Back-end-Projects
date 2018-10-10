@@ -1,0 +1,27 @@
+header{
+background-color: black;
+border: 1px solid black;
+height: 100px;
+width: 100%;
+color: yellow;
+text-align: center;
+}
+
+footer{
+background-color: black;
+border: 1px solid black;
+height: 100px;
+width: 100%;
+display: block;
+}
+section{
+background-image: url("https://cdn5.vectorstock.com/i/1000x1000/62/99/maze-background-vector-436299.jpg");
+height: 400px;
+width: 100%;
+}
+
+#image{
+height: 35px;
+width: 35px;
+
+}
